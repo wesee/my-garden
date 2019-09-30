@@ -21,7 +21,7 @@ dcl start
 
 This will install any missing dependencies and automatically open your default browser to preview the scene. This might take a few seconds to load but once done, you should see a wooden bridge situated in a small garden that's surrounded by wooden fences and pine trees.
 
-![screenshot](blob/screenshots/my_garden_01.png)
+![screenshot](screenshots/my_garden_01.png)
 
 You need to walk around the fence and find the wooden door.  You can't access the garden without having to jump over the fence so you have the door open and close the wooden door by clicking on it.
 
